@@ -1,0 +1,25 @@
+ae-United Arab Emirates
+eg-Egypt
+ie-Ireland
+au-Australia
+pk-Pakistan
+pl-Poland
+de-Germany
+ru-Russia
+fr-France
+kr-Sourth Korea
+ca-Canada
+us-America
+jp-Japan
+se-Sweden
+ch-Switzerland
+fi-Finland
+sa-Saudi Arabia
+ua-Ukraine
+gr-Greece
+nz-New Zealand
+il-Israel
+it-Italy
+in-India
+uk-United Kingdom
+cn-China
